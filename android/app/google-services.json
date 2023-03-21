@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245566013649",
+    "project_id": "dummy-ecdeb",
+    "storage_bucket": "dummy-ecdeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245566013649:android:52eecf79a0b1bf2867c5f0",
+        "android_client_info": {
+          "package_name": "com.JDev.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245566013649-q8chqpd0f4sn6mcgjc99s7a61dof657h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzDEhDlWBDNFE6-CvtssG45jB0IHoBcM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245566013649-q8chqpd0f4sn6mcgjc99s7a61dof657h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
